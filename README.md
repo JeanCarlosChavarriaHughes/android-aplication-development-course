@@ -1,7 +1,7 @@
 # android-aplication-development-course
 
 ## MagicIDApplication
-Contains an application that receives the ID of the South African person and provide the details: Date of birth, gender, and SA Citizen according to [South Afrinca ID Number](https://www.westerncape.gov.za/sites/www.westerncape.gov.za/files/sa-id-number-new.png)"
+Contains an application that receives the ID of the South African person and provide the details: Date of birth, gender, and SA Citizen according to [South African ID Number](https://www.westerncape.gov.za/sites/www.westerncape.gov.za/files/sa-id-number-new.png)"
 
 ## Temperature Cricket
 Contains an application that receives the number of crickets counted in 25 seconds and calculates the temperature according with this [Algorithm of prediction the temperature with cricket chrips](https://www.almanac.com/content/predict-temperature-cricket-chirps)
