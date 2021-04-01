@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplicitIntentSample</string>
+    <string name="tv1">Please enter your name</string>
+    <string name="tv2">Welcome to Activity 2</string>
+    <string name="edit2">Enter your surname</string>
+    <string name="submit">Submit</string>
+    <string name="tvResultsText">Data from Act3 will be displayed</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="activity_2">Activity 2</string>
+</resources>
