@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VectorAssetsSample</string>
+    <string name="image1">Image1</string>
+    <string name="change">Change</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='VectorAssetsSample'
+include ':app'
