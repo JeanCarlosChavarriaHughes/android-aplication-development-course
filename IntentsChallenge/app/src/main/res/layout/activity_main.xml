@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="@string/titleText"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgFeeling"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:contentDescription="@string/feeling_image"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_sentiment_neutral_black_24dp" />
+
+    <ImageView
+        android:id="@+id/imgPhoneCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:contentDescription="@string/call_contact_button"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_local_phone_black_24dp" />
+
+    <ImageView
+        android:id="@+id/imgWebPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:contentDescription="@string/open_web_page_of_contact"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_web_black_24dp" />
+
+    <ImageView
+        android:id="@+id/imgLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:contentDescription="@string/open_gps_location_of_contact"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_person_pin_circle_black_24dp" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSubmitText" />
+</LinearLayout>

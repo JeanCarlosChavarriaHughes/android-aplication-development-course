@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IntentsChallenge</string>
+    <string name="titleText">Contacts App</string>
+    <string name="btnSubmitText">Create new contact</string>
+    <string name="feeling_image">Feeling Image</string>
+    <string name="call_contact_button">Call Contact Button</string>
+    <string name="open_web_page_of_contact">Open Web Page of Contact</string>
+    <string name="open_gps_location_of_contact">Open GPS location of contact</string>
+    <string name="feelingHappy">happy</string>
+    <string name="feelingNeutral">neutral</string>
+    <string name="feelingSad">sad</string>
+
+</resources>
