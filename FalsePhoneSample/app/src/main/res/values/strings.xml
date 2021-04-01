@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FalsePhoneSample</string>
+    <string name="just_kidding_cannot_really_perform_a_call">Just Kidding, cannot really perform a call</string>
+</resources>
