@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TemperatureCricket</string>
+    <string name="textSummary">PREDICT THE TEMPERATURE WITH CRICKET CHIRPS</string>
+    <string name="contentDesc1">Image of a generic thermometer</string>
+    <string name="textDesc1">Here’s a fun challenge: \n\n
+        - Go outside in the evening if you know a place crickets chirp (or have a pet cricket). \n
+        - Bring a stopwatch (a mobile phone has one). \n
+        - Pick out the chirping sound of a single cricket. \n
+        - Just count the number of chirps in 14 seconds, then add 40 to get the temperature. \n
+        (Perhaps do this a few times, just to see if you’re getting the same number. Take the average.) \n
+        - Check the temperature on an outdoor thermometer. \n
+        - Is it close? Try it again on a cooler evening. See how the chirp frequency changes.</string>
+    <string name="submitBtn">Calculate Temparature</string>
+    <string name="hintInput">Number of crickets counted in 25sec</string>
+</resources>
