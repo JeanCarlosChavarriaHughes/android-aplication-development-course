@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8e49156-6c13-4b86-997f-232f55568145" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IntentsChallenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntentsChallenge/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentsChallenge/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntentsChallenge/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentsChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntentsChallenge/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sB7AKiZNg7GuuFkaQ4VBExVXSc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e49156-6c13-4b86-997f-232f55568145" name="Default Changelist" comment="" />
+      <created>1620333983962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620333983962</updated>
+    </task>
+    <servers />
+  </component>
+</project>
